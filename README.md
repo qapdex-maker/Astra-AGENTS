@@ -1,2 +1,2 @@
 # Astra-AGENTS
-An AGENTS file based on GPT-6 Astra.
+An AGENTS blueprint based on GPT-6 Astra. 
